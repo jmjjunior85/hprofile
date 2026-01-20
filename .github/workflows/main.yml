@@ -12,3 +12,5 @@ jobs:
         run: whoami
       - name: Testing ls
         run: ls
+      - name: Testing ls slash
+        run: ls /
